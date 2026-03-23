@@ -1,0 +1,11 @@
+diagnoses.icd_code,diagnoses.icd_version,admissions.time,admissions.type,patient.gender,patient.age,medications.drug,lab_results.label,lab_results.value
+sample_256,sample_765,sample_597,sample_385,sample_491,555,sample_612,sample_631,sample_731
+sample_701,sample_752,sample_610,sample_69,sample_956,19,sample_48,sample_817,sample_956
+sample_22,sample_413,sample_990,sample_454,sample_136,470,sample_481,sample_387,sample_44
+sample_779,sample_960,sample_397,sample_171,sample_274,724,sample_948,sample_703,sample_798
+sample_762,sample_450,sample_380,sample_206,sample_856,550,sample_165,sample_306,sample_371
+sample_194,sample_613,sample_17,sample_868,sample_45,77,sample_521,sample_117,sample_300
+sample_691,sample_90,sample_630,sample_736,sample_917,503,sample_839,sample_959,sample_205
+sample_619,sample_640,sample_976,sample_88,sample_597,581,sample_738,sample_988,sample_580
+sample_166,sample_55,sample_95,sample_238,sample_985,929,sample_56,sample_743,sample_658
+sample_57,sample_416,sample_360,sample_615,sample_778,168,sample_506,sample_85,sample_471
