@@ -55,19 +55,6 @@
     "root": {
       "type": "object",
       "properties": {}
-    },
-    "lab_results": {
-      "type": "object",
-      "properties": {
-        "label": {
-          "type": "object",
-          "description": "Label"
-        },
-        "value": {
-          "type": "object",
-          "description": "Value"
-        }
-      }
     }
   }
 }
