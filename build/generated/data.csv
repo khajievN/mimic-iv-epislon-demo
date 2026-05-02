@@ -1,0 +1,11 @@
+admissions.type,admissions.time,patient.gender,patient.age,diagnoses.icd_code,diagnoses.icd_version
+sample_362,sample_259,sample_172,638,sample_121,371
+sample_245,sample_163,sample_982,46,sample_818,506
+sample_491,sample_338,sample_841,21,sample_36,34
+sample_475,sample_317,sample_458,411,sample_36,953
+sample_380,sample_972,sample_417,128,sample_251,662
+sample_963,sample_278,sample_583,618,sample_118,618
+sample_529,sample_924,sample_656,498,sample_66,470
+sample_83,sample_568,sample_536,701,sample_121,200
+sample_346,sample_502,sample_816,77,sample_771,105
+sample_911,sample_992,sample_226,148,sample_240,542
