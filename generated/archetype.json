@@ -1,32 +1,19 @@
 {
-  "$id": "74ea2543-8a54-4a57-ad3f-321ba97c60be/5waDszzedvnU",
+  "$id": "0c706732-10ef-4d4d-8b65-950919dcb471/hmmUmI1bgOv8",
   "$schema": "https://json-schema.org/draft/2020-12/schema#",
-  "title": "mimic-iv archetype",
+  "title": "archetype",
   "type": "object",
   "properties": {
-    "diagnoses": {
-      "type": "object",
-      "properties": {
-        "icd_code": {
-          "type": "object",
-          "description": "Icd Code"
-        },
-        "icd_version": {
-          "type": "object",
-          "description": "Icd Version"
-        }
-      }
-    },
     "admissions": {
       "type": "object",
       "properties": {
-        "time": {
-          "type": "object",
-          "description": "Time"
-        },
         "type": {
           "type": "object",
           "description": "Type"
+        },
+        "time": {
+          "type": "object",
+          "description": "Time"
         }
       }
     },
@@ -43,12 +30,16 @@
         }
       }
     },
-    "medications": {
+    "diagnoses": {
       "type": "object",
       "properties": {
-        "drug": {
+        "icd_code": {
           "type": "object",
-          "description": "Drug"
+          "description": "Icd Code"
+        },
+        "icd_version": {
+          "type": "integer",
+          "description": "Icd Version"
         }
       }
     },
